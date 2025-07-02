@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 💖 Interested in software systems, especially operating systems, networking, distributed systems, and database systems.
 
-🌱 Personal projects include writing an OS kernel for x86 from scratch, designing and synthesizing a RISCV-CPU, etc.
+🌱 Personal projects include writing an OS kernel for x86 from scratch, designing and synthesizing a RISC-V CPU, etc.
