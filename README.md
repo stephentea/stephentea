@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 ECE + CS double major, Math minor at Carnegie Mellon University.
+🔭 Currently working on hypervisor development.
+💖 Interested in software systems, especially operating systems, networking, distributed systems, and database systems.
